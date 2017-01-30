@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=a\ b\ vyska
+comment0.target=Kosodlznik(double,\ double,\ double)
+comment0.text=\r\n\ Kon\u0161truktor\ s\ parametrom\ ktor\u00FD\ ozna\u010Duje\ strany\ a\ a\ b\ a\ v\u00FD\u0161ku.\r\n\ @param\ a\ Zadan\u00E1\ strana\ a.\r\n\ @param\ b\ Zadan\u00E1\ strana\ b.\r\n\ @param\ vyska\ Zadan\u00E1\ strana\ vyska.\r\n
+comment1.params=
+comment1.target=double\ obvod()
+comment1.text=\r\n\ Met\u00F3da\ ktor\u00E1\ zist\u00ED\ obvod\ kosodl\u017En\u00EDka.\r\n
+comment2.params=
+comment2.target=double\ obsah()
+comment2.text=\r\n\ Met\u00F3da\ ktor\u00E1\ zist\u00ED\ obsah\ kosodl\u017En\u00EDka.\r\n
+numComments=3
